@@ -1,0 +1,22 @@
+// http://designgeekz.com/20-best-jquery-plugins-for-2014/
+
+// SVG magic -> replaces SVG with PNG if WebGL not supported
+// https://dirkgroenen.github.io/SVGMagic/index.html
+
+// round loaders
+// http://www.class.pm/projects/jquery/classyloader/
+
+// srcollbar as progression bar (?)
+// http://janpaepke.github.io/ScrollMagic/
+
+// fluidbox - distraction free image viewing
+// http://terrymun.github.io/Fluidbox/
+
+// javascript libraries list
+// http://www.jsdb.io
+
+// reveal parts of your website while scrolling
+// http://scrollrevealjs.org
+
+// inflate head lines to parent element > responsive
+// http://fittextjs.com

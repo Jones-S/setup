@@ -1,0 +1,38 @@
+// install node.js
+// use npm (node package manager) for nice tools
+// e.g. serve > create a local server localhost with port of specific directory > https://www.npmjs.org/package/serve
+
+
+// install package manager for sublimetext
+// ctrl-shift-p > install > (packages)
+// e.g. emmet (zen-code) or prettify
+
+
+// install grunt > http://gruntjs.com
+// 
+
+
+// check ruby version  ruby -v (should be preinstalled in mac os x)
+// install sass (easier css coding) > http://sass-lang.com/install
+// install package 'sass' for sublimetext (http://sublimetexttips.com/how-to-add-sass-support-in-sublime-text/)
+// use sass > http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
+// homebrew? > http://brew.sh
+// install git
+
+// ngrok > https://ngrok.com (tunnels to localhost)
+// use account (github login) > https://ngrok.com/user/login
+// if serving on port (3000) > use ngrok to generate tunnel > use subdomain to generate tunnel to domain
+// Example: Open a tunnel with a custom subdomain, 'example'
+// $ ngrok -subdomain=example 80
+
+// new shell instead of bash > http://ohmyz.sh
+// ohmyzsh file: /Users/Jonas/.zshrc
+// make alias for showing and hiding files > http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/ in zshrc file
+// 
+
+// install trash command in terminal > npm install trash
+
+// http://www.codecademy.com/jonesmerc
+
+// terminal > befehl > banner > banner -w 50 exampletext
