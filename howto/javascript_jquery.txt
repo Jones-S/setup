@@ -20,3 +20,6 @@
 
 // inflate head lines to parent element > responsive
 // http://fittextjs.com
+
+// http://selectivizr.com/
+// pseudo selector for older browsers

@@ -29,7 +29,11 @@
 // new shell instead of bash > http://ohmyz.sh
 // ohmyzsh file: /Users/Jonas/.zshrc
 // make alias for showing and hiding files > http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/ in zshrc file
-// 
+
+// install bower
+// & use it for installing other dependencies in your project and save dependency in your bower.json file
+// http://bower.io/
+
 
 // install trash command in terminal > npm install trash
 
