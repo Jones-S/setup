@@ -29,6 +29,11 @@
 // new shell instead of bash > http://ohmyz.sh
 // ohmyzsh file: /Users/Jonas/.zshrc
 // make alias for showing and hiding files > http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/ in zshrc file
+// because zsh does not support utf-8 per se; add at bottom
+  export TERM=Apple_Terminal
+  export LC_CTYPE=de_CH.UTF-8 
+  export LANG=de_CH.UTF-8
+// to ~/.oh-my-zsh/oh-my-zsh.sh
 
 // install bower
 // & use it for installing other dependencies in your project and save dependency in your bower.json file
