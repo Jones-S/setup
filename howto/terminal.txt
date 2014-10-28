@@ -29,6 +29,8 @@
 // new shell instead of bash > http://ohmyz.sh
 // ohmyzsh file: /Users/Jonas/.zshrc
 // make alias for showing and hiding files > http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/ in zshrc file
+// https://github.com/heim/oh-my-zsh-custom/blob/master/aliases.zsh for examples how to make an alias in zsh
+
 // because zsh does not support utf-8 per se; add at bottom
   export TERM=Apple_Terminal
   export LC_CTYPE=de_CH.UTF-8 
