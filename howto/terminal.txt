@@ -1,6 +1,9 @@
 // install node.js
 // use npm (node package manager) for nice tools
 // e.g. serve > create a local server localhost with port of specific directory > https://www.npmjs.org/package/serve
+// move to directory which should be the root of your localhost > cd dir/../
+// serve > this directory will be at port 3000 per default.
+
 
 
 // install package manager for sublimetext
