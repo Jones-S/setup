@@ -23,3 +23,13 @@
 
 // http://selectivizr.com/
 // pseudo selector for older browsers
+
+// http://d3js.org
+/ powerful JavaScript library for manipulating documents based on data.
+
+// https://lodash.com
+// A utility library delivering consistency, customization, performance, & extras.
+
+// http://underscorejs.org
+// a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+// ~the same as lodash
