@@ -1,0 +1,12 @@
+Sublime:
+
+Packages:
+
+Arduino-like IDE
+------
+
+
+Processing in Sublime:
+If you are using Sublime Package Control, you can easily install the Processing Bundle via the Sublime Text -> Preferences -> Package Control: Install Package menu item.
+https://github.com/b-g/processing-sublime
+------

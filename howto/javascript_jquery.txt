@@ -33,3 +33,8 @@
 // http://underscorejs.org
 // a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 // ~the same as lodash
+
+// make an array accessible (globale) in chrome console
+// window.myArray = myArray;
+// > type into console of chrome:
+// 'window.myArray'

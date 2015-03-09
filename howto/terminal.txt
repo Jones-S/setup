@@ -51,3 +51,12 @@
 // http://www.codecademy.com/jonesmerc
 
 // terminal > befehl > banner > banner -w 50 exampletext
+
+// install php local environment without mamp
+// https://www.lullabot.com/blog/article/setting-my-mac-without-mamp
+
+// install ino tool from picocom
+// brew install ino
+// http://inotool.org
+// http://inotool.org/quickstart
+
