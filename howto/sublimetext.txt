@@ -1,12 +1,37 @@
-Sublime:
+# Sublime:
 
-Packages:
+## Packages:
 
-Arduino-like IDE
-------
+~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Package\ Control.sublime-settings
 
+## Editor Layout
+Nice theme: Material theme.
+Customization of sidebar:
 
-Processing in Sublime:
-If you are using Sublime Package Control, you can easily install the Processing Bundle via the Sublime Text -> Preferences -> Package Control: Install Package menu item.
-https://github.com/b-g/processing-sublime
-------
+use Package "PackageRessourceViewer" to open theme file of current theme.
+For sidebar label height (less height, more files shown at once):
+Search for **sidebar_tree**
+
+```
+    "class": "sidebar_tree",
+    "row_padding": [5, 3], //change padding to see more files
+    "indent": 16,
+    "indent_offset": 0,
+    "indent_top_level": false,
+    "layer0.tint": [38, 50, 56],
+    "layer0.opacity": 1.0
+```
+
+For the sidebar font size search for: **sidebar_label**
+
+```
+  {
+    "class": "sidebar_label",
+    "color": [96, 125, 139],
+    "font.bold": false,
+    "font.italic": false,
+    "shadow_color": [255, 255, 255, 0],
+    "shadow_offset": [0, 0],
+    "font.size": 9, //change font size to display a smaller label
+  },
+```
