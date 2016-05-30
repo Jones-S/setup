@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+console.log(${1:eMächtigiVariable});
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>log</tabTrigger>
+</snippet>

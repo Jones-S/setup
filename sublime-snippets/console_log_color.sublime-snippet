@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+console.log("%c ${1:ColoredText}", "background: #FDD187; color: #DA5C1B");
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>echoVarColor</tabTrigger>
+</snippet>
